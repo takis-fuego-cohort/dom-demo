@@ -1,0 +1,6 @@
+/* * {
+    border: 1px solid green;
+} */
+.crossed-out {
+    text-decoration: line-through;
+}
